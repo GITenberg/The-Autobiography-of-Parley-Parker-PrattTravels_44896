@@ -1,0 +1,41 @@
+_repo: The-Autobiography-of-Parley-Parker-PrattTravels_44896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pratt, Parley P. (Parley Parker)
+    aliases:
+    - Pratt, P. P. (Parley Parker)
+    - Pratt, Parley Parker
+    birthdate: 1807
+    deathdate: 1857
+    gutenberg_agent_id: '37697'
+    url: http://www.gutenberg.org/2009/agents/37697
+    wikipedia: http://en.wikipedia.org/wiki/Parley_P._Pratt
+  editor:
+    agent_name: Pratt, Parley P. (Parley Parker)
+    alias: Pratt, Parley Parker
+    birthdate: 1837
+    deathdate: 1897
+    gutenberg_agent_id: '41930'
+    url: http://www.gutenberg.org/2009/agents/41930
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pratt, Parley P. (Parley Parker), 1807-1857'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Apostles -- Biography'
+- !lcc 'BX'
+title: "The Autobiography of Parley Parker Pratt\r\nOne of the Twelve Apostles of\
+  \ the Church of Jesus Christ of Latter-Day Saints, Embracing His Life, Ministry,\
+  \ and Travels"
+url: http://www.gutenberg.org/ebooks/44896
